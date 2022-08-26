@@ -32,21 +32,21 @@ Material y equipo requerido
 
 (a)
 
-![image](https://user-images.githubusercontent.com/105671364/186958141-dff4684a-4690-406c-bb2b-e6d7c2082bc5.png)
-
+![image](https://user-images.githubusercontent.com/105671364/186957860-875c8cfb-6799-4748-976a-ad5b37ab0324.png)
 
 (b)
 
-![image](https://user-images.githubusercontent.com/105671364/186958092-71a81032-66e4-4d0d-98d2-21594e8d14ed.png)
+![image](https://user-images.githubusercontent.com/105671364/186957822-95d20d66-cf26-402e-92e5-b1c1ea79424c.png)
 
 
 (c)
 
 
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 ### 4.1 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
-4.1.1 Transforme a su forma polar:
+#### 4.1.1 Transforme a su forma polar:
 
 a)
 
@@ -64,7 +64,26 @@ d)
 
 ![image](https://user-images.githubusercontent.com/105696051/186957073-a183a2bc-d4fd-4fba-987e-a66918799969.png)
 
+#### 4.1.2 Transforme a su forma rectangular:
+
+a)
+
+![image](https://user-images.githubusercontent.com/105696051/186959186-4d42359c-c3ab-414a-b3b4-d0b193a83a55.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105696051/186959268-86f4edcc-f62f-4876-8762-e5040fc4ff04.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/105696051/186959327-07f8144b-f41e-409d-8b37-e994e786bcb0.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/105696051/186959385-517d32e1-5663-4796-8e44-a3353d8581ae.png)
+
 Los valores hallados con la calculadora son los mismos encontrados de la otra manera
+
 ## 5. VIDEO
 
 
