@@ -32,9 +32,12 @@ Material y equipo requerido
 
 (a)
 
+![image](https://user-images.githubusercontent.com/105671364/186958141-dff4684a-4690-406c-bb2b-e6d7c2082bc5.png)
+
 
 (b)
 
+![image](https://user-images.githubusercontent.com/105671364/186958092-71a81032-66e4-4d0d-98d2-21594e8d14ed.png)
 
 
 (c)
