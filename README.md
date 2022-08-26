@@ -41,6 +41,7 @@ Material y equipo requerido
 
 (c)
 
+![image](https://user-images.githubusercontent.com/105671364/186962291-05f819fa-d0ec-4aa7-8462-7d36428aa86b.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
